@@ -1,0 +1,101 @@
+date,ticker,asset_name,asset_group,close
+2026-03-25,SPX,S&P 500,global_equity,5120
+2026-03-26,SPX,S&P 500,global_equity,5140
+2026-03-27,SPX,S&P 500,global_equity,5165
+2026-03-28,SPX,S&P 500,global_equity,5170
+2026-03-29,SPX,S&P 500,global_equity,5155
+2026-03-30,SPX,S&P 500,global_equity,5180
+2026-03-31,SPX,S&P 500,global_equity,5195
+2026-04-01,SPX,S&P 500,global_equity,5210
+2026-04-02,SPX,S&P 500,global_equity,5230
+2026-04-03,SPX,S&P 500,global_equity,5220
+2026-04-04,SPX,S&P 500,global_equity,5240
+2026-04-05,SPX,S&P 500,global_equity,5255
+2026-04-06,SPX,S&P 500,global_equity,5270
+2026-04-07,SPX,S&P 500,global_equity,5260
+2026-04-08,SPX,S&P 500,global_equity,5285
+2026-04-09,SPX,S&P 500,global_equity,5300
+2026-04-10,SPX,S&P 500,global_equity,5315
+2026-04-11,SPX,S&P 500,global_equity,5330
+2026-04-12,SPX,S&P 500,global_equity,5345
+2026-04-13,SPX,S&P 500,global_equity,5360
+2026-03-25,NQ,Nasdaq 100,global_equity,17800
+2026-03-26,NQ,Nasdaq 100,global_equity,17850
+2026-03-27,NQ,Nasdaq 100,global_equity,17920
+2026-03-28,NQ,Nasdaq 100,global_equity,17900
+2026-03-29,NQ,Nasdaq 100,global_equity,17840
+2026-03-30,NQ,Nasdaq 100,global_equity,17980
+2026-03-31,NQ,Nasdaq 100,global_equity,18050
+2026-04-01,NQ,Nasdaq 100,global_equity,18120
+2026-04-02,NQ,Nasdaq 100,global_equity,18220
+2026-04-03,NQ,Nasdaq 100,global_equity,18190
+2026-04-04,NQ,Nasdaq 100,global_equity,18310
+2026-04-05,NQ,Nasdaq 100,global_equity,18400
+2026-04-06,NQ,Nasdaq 100,global_equity,18480
+2026-04-07,NQ,Nasdaq 100,global_equity,18420
+2026-04-08,NQ,Nasdaq 100,global_equity,18560
+2026-04-09,NQ,Nasdaq 100,global_equity,18620
+2026-04-10,NQ,Nasdaq 100,global_equity,18680
+2026-04-11,NQ,Nasdaq 100,global_equity,18740
+2026-04-12,NQ,Nasdaq 100,global_equity,18820
+2026-04-13,NQ,Nasdaq 100,global_equity,18920
+2026-03-25,VIX,VIX,volatility,19.8
+2026-03-26,VIX,VIX,volatility,19.2
+2026-03-27,VIX,VIX,volatility,18.9
+2026-03-28,VIX,VIX,volatility,19.0
+2026-03-29,VIX,VIX,volatility,19.6
+2026-03-30,VIX,VIX,volatility,18.5
+2026-03-31,VIX,VIX,volatility,18.1
+2026-04-01,VIX,VIX,volatility,17.8
+2026-04-02,VIX,VIX,volatility,17.4
+2026-04-03,VIX,VIX,volatility,17.7
+2026-04-04,VIX,VIX,volatility,17.2
+2026-04-05,VIX,VIX,volatility,16.9
+2026-04-06,VIX,VIX,volatility,16.7
+2026-04-07,VIX,VIX,volatility,17.0
+2026-04-08,VIX,VIX,volatility,16.4
+2026-04-09,VIX,VIX,volatility,16.1
+2026-04-10,VIX,VIX,volatility,15.9
+2026-04-11,VIX,VIX,volatility,15.8
+2026-04-12,VIX,VIX,volatility,15.7
+2026-04-13,VIX,VIX,volatility,15.6
+2026-03-25,US10Y,US 10Y Yield,rates,4.30
+2026-03-26,US10Y,US 10Y Yield,rates,4.29
+2026-03-27,US10Y,US 10Y Yield,rates,4.31
+2026-03-28,US10Y,US 10Y Yield,rates,4.32
+2026-03-29,US10Y,US 10Y Yield,rates,4.33
+2026-03-30,US10Y,US 10Y Yield,rates,4.31
+2026-03-31,US10Y,US 10Y Yield,rates,4.30
+2026-04-01,US10Y,US 10Y Yield,rates,4.28
+2026-04-02,US10Y,US 10Y Yield,rates,4.27
+2026-04-03,US10Y,US 10Y Yield,rates,4.29
+2026-04-04,US10Y,US 10Y Yield,rates,4.26
+2026-04-05,US10Y,US 10Y Yield,rates,4.24
+2026-04-06,US10Y,US 10Y Yield,rates,4.23
+2026-04-07,US10Y,US 10Y Yield,rates,4.22
+2026-04-08,US10Y,US 10Y Yield,rates,4.20
+2026-04-09,US10Y,US 10Y Yield,rates,4.18
+2026-04-10,US10Y,US 10Y Yield,rates,4.17
+2026-04-11,US10Y,US 10Y Yield,rates,4.15
+2026-04-12,US10Y,US 10Y Yield,rates,4.14
+2026-04-13,US10Y,US 10Y Yield,rates,4.12
+2026-03-25,DXY,Dollar Index,fx,104.2
+2026-03-26,DXY,Dollar Index,fx,104.1
+2026-03-27,DXY,Dollar Index,fx,104.0
+2026-03-28,DXY,Dollar Index,fx,104.1
+2026-03-29,DXY,Dollar Index,fx,104.3
+2026-03-30,DXY,Dollar Index,fx,103.9
+2026-03-31,DXY,Dollar Index,fx,103.8
+2026-04-01,DXY,Dollar Index,fx,103.7
+2026-04-02,DXY,Dollar Index,fx,103.6
+2026-04-03,DXY,Dollar Index,fx,103.8
+2026-04-04,DXY,Dollar Index,fx,103.5
+2026-04-05,DXY,Dollar Index,fx,103.4
+2026-04-06,DXY,Dollar Index,fx,103.3
+2026-04-07,DXY,Dollar Index,fx,103.2
+2026-04-08,DXY,Dollar Index,fx,103.0
+2026-04-09,DXY,Dollar Index,fx,102.9
+2026-04-10,DXY,Dollar Index,fx,102.8
+2026-04-11,DXY,Dollar Index,fx,102.7
+2026-04-12,DXY,Dollar Index,fx,102.7
+2026-04-13,DXY,Dollar Index,fx,102.6
